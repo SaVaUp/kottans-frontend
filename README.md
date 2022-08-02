@@ -7,7 +7,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 ### General
 <details>
 - [x] Git Basics
-  - [How to use Git and GitHub](" How to use Git and GitHub")
-  - <summary>Srcreenshots</summary>
+  <summary>[How to use Git and GitHub]</summary>
+  - (" How to use Git and GitHub")
   <img src = "./img/1 week complete.jpg">
 </details>
