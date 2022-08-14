@@ -7,7 +7,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 ## Git
 Ніколи не мав справу з гітом та його командами.
 Було складно засвоювати інформацію англійскою мовою.
-Візальна гра-тест трішечки допомогла зрозуміти як це все працює. 
+Візуальна гра-тест трішечки допомогла зрозуміти як це все працює. 
 
 - [X]  [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) 
 
