@@ -4,7 +4,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 ### General
 
-## Git
+## Git та GitHub
 Ніколи не мав справу з гітом та його командами.
 Було складно засвоювати інформацію англійскою мовою.
 Візуальна гра-тест трішечки допомогла зрозуміти як це все працює. 
