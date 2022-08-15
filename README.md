@@ -24,3 +24,32 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
   </details>
 
 ---
+
+## Linux CLI, and HTTP
+
+Все життя використоваю тільки Вінду. На сьогодні для мене більш звично робити все мишкою, ніж через командну консоль :)
+Багато команд в Лінуксі, без постійной практики буду дуже швидко забувати їх.
+Завжди вважав Лінукс системої тільки для написання коду, якщо цікавить Фотошоп чи відеомонтаж то краще обрати Вінду чи МакОс.
+
+- [X]  [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) 
+- <details>
+    <summary>quiz 1</summary>
+    <img src = "./task_linux_cli/quiz 1 done.jpg">
+  </details>
+
+- <details>
+    <summary>quiz 2</summary>
+    <img src = "./task_linux_cli/quiz 2 done.jpg">
+  </details>
+
+- <details>
+    <summary>quiz 3</summary>
+    <img src = "./task_linux_cli/quiz 3 done.jpg">
+  </details>
+
+- <details>
+    <summary>quiz 4</summary>
+    <img src = "./task_linux_cli/quiz 4 done.jpg">
+  </details>
+
+---
