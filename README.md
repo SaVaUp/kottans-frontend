@@ -29,7 +29,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 Все життя використовую тільки Вінду. На сьогодні для мене більш звично робити все мишкою, ніж через командну консоль :)
 Багато команд в Лінуксі, без постійной практики буду дуже швидко забувати їх.
-Завжди вважав Лінукс системої тільки для написання коду, якщо цікавить Фотошоп чи відеомонтаж то краще обрати Вінду чи МакОс.
+Завжди вважав Лінукс системої тільки для написання коду, якщо цікавить Фотошоп чи відеомонтаж то краще обрати Вінду або МакОс.
 
 - [X]  [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) 
 - <details>
@@ -53,3 +53,21 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
   </details>
 
 ---
+
+## Git Collaboration
+
+- [X]  [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) 
+
+Introduction to Git and GitHub <details>
+    <summary>week 3-4</summary>
+    <img src = "./task_git_collaboration/week 3 done.jpg">
+    <img src = "./task_git_collaboration/week 4 done.jpg">
+  </details>
+
+<details> 
+    <summary>learngitbranching.js.оrg </summary>
+    <img src = "./task_git_collaboration/learngitbranching 3 done.jpg">
+    <img src = "./task_git_collaboration/learngitbranching 4 done.jpg">
+  </details>
+  
+  ---
